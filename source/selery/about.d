@@ -157,7 +157,7 @@ enum supportedJavaProtocols = cast(string[][uint])[
 
 /// ditto
 enum supportedPocketProtocols = cast(string[][uint])[
-	134: ["1.2.0"],
+	136: ["1.2.0"],
 ];
 
 /**
